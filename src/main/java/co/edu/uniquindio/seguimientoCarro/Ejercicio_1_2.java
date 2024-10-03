@@ -4,7 +4,7 @@ import co.edu.uniquindio.seguimientoCarro.utils.ArchivoUtils;
 
 import java.io.IOException;
 
-public class ejercicio_1_2 {
+public class Ejercicio_1_2 {
     public static void main(String[] args) throws IOException {
 
         String archivoRutaAbsoluta = "C:\\Users\\ASUS\\OneDrive\\Documentos\\Programacion_III\\co.edu.uniquindio.seguimientoCarro\\src\\main\\resources\\Persistencia\\archivoCarros.txt";

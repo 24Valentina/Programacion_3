@@ -13,7 +13,7 @@ public class Ejercicio_3 {
         String rutaArchivoPropiedades = "/persistencia/baseDatos.properties";
 
         Properties properties = new Properties();
-        try (InputStream inputStream = Punto_3.class.getResourceAsStream(rutaArchivoPropiedades)) {
+        try (InputStream inputStream = Ejercicio_3.class.getResourceAsStream(rutaArchivoPropiedades)) {
 
             if (inputStream != null) {
                 // Cargar las propiedades del archivo
