@@ -1,0 +1,7 @@
+endpoint1@/users/get
+endpoint2@/users/create
+password@345678
+puerto@8080
+host1@main-server.com
+host2@backup-server.com
+usuario@user
